@@ -1,0 +1,32 @@
+p{
+  font-size: 18px ;
+  color :black ;
+  font-weight : bold;
+}
+li{
+  color :black;
+  font-size:18px;
+  font-weight:bold;
+}
+h1{
+  text-decoration:underline;
+  font-size:25px;
+  width:100%;
+  line-height: 5px;
+}
+#head1{
+  font size :30px;
+}
+.dev{
+  color :red;
+  font-size:18px;
+  font-weight:bold;
+}
+a.Expected:hover{
+  color:red;
+  text-decoration: overline;
+}
+a:active{
+  color:orange;
+  text-decoration: overline;
+}
